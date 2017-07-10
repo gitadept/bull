@@ -24,7 +24,8 @@
     "ioredis": "^2.5.0",
     "lodash": "^4.17.4",
     "semver": "^5.3.0",
-    "uuid": "^3.0.1"
+    "uuid": "^3.0.1",
+    "ms": "^2.0.0"
   },
   "devDependencies": {
     "expect.js": "^0.3.1",
